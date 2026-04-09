@@ -95,6 +95,7 @@ pytest
 - [Tempera Online Manual — Tracks](https://docs.beetlecrab.audio/tempera/tracks.html)
 - [Official Canvas Gallery](https://gallery.beetlecrab.audio/patches/)
 - [Beetlecrab Tempera Homepage](https://beetlecrab.audio/tempera/)
+- [Beetlecrab Tempera Support](https://beetlecrab.audio/tempera/support/)
 
 ### Tutorials and canvases
 
